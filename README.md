@@ -9,7 +9,7 @@ HashiCorp Terraform is an open source infrastructure as code (IaC) software tool
 
 Create Networking section in Terraform Project :
 
-## Networking Section (With variables & Modules Concepts)
+## Networking Section (With Variables & Modules Concepts)
 
 - Create vpc
 - Create internet gateway
