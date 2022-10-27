@@ -56,6 +56,8 @@ variable "img_id" {
 
 }
 
+#instance
+
 variable "instance_type" {
   
   type = string
